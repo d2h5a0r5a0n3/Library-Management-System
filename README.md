@@ -1,8 +1,5 @@
 # Library-Management-System
-Application for library 
-# Library-Management-System
 Library based application
-# Library Management System (LMS)
 
 ## Overview
 The Library Management System (LMS) is a software application designed to manage library resources, including books, users, and bookings. This project aims to provide a convenient way for libraries to organize their collections, handle user registrations, and manage book bookings.
@@ -36,6 +33,8 @@ To set up the Library Management System, follow these steps:
 - JDBC (Java Database Connectivity)
 
 ## Preview the application
+- Want in single class `lms.java`.
+- Want in the form package then `lms1.java` and package `lms_package`.
 - `Demo.mp4`.
 
 ## Contributors
