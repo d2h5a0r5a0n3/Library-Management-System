@@ -40,6 +40,7 @@ To set up the Library Management System, follow these steps:
 ## Contributors
 - [Dharaneshwar Kalavena](https://github.com/d2h5a0r5a0n3)
 - [Devipriya Korada](https://github.com//devipriya8736)
+- Venugopal
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
